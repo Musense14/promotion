@@ -2,4 +2,5 @@ Hello folks,
 
 just for testing stuff. Can be ignored.
 
-https://hub.2i2c.mybinder.org/user/musense14-promotion-rxspbzyl/lab
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Musense14/promotion/HEAD
